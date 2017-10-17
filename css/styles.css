@@ -10,3 +10,11 @@ img {
 .clickable:hover{
   text-decoration: line-through;
 }
+
+.black-background{
+  background-color: #000;
+  color: #FFF;
+}
+.white-background{
+  background-color: #FFF;
+}
