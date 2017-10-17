@@ -1,0 +1,12 @@
+img {
+  display: none;
+}
+
+.clickable{
+  cursor: pointer;
+  color: #045000
+}
+
+.clickable:hover{
+  text-decoration: line-through;
+}
